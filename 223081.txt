@@ -1,0 +1,5 @@
+Albin Fejza - 223081
+Commands: git init, add, commit, branch, checkout, merge, push.
+Merge 1: Fast-forward (search-books).
+Merge 2: Recursive with conflict (borrow-book). Resolved by keeping feature version.
+Merge 3: Recursive (genre-report).
